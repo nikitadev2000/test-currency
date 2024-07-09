@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.1",
+  "description": "testovoe",
+  "main": "currencyAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
